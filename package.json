@@ -1,0 +1,30 @@
+{
+  "name": "aemm-plugin-fullscreen-video",
+  "version": "1.1.1",
+  "description": "AEMM Fullscreen Video Plugin",
+  "cordova": {
+    "id": "aemm-plugin-fullscreen-video",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adobe-marketing-cloud-mobile/aemm-plugin-fullscreen-video.git"
+  },
+  "keywords": [
+    "cordova",
+    "fullscreen",
+    "cordova-ios",
+    "cordova-android",
+    "aem",
+    "aemm",
+    "aemmobile",
+    "fullscreen",
+    "video",
+    "fullscreenvideo"
+  ],
+  "author": "Adobe",
+  "license": "Apache 2.0"
+}
